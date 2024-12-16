@@ -11,3 +11,5 @@
 ## ShapeGame
 
 [ShapeGame project](https://github.com/Angus-Kyle/Angus-Kyle/blob/main/Shapegame.zip)
+
+### What I had done for my shape game is referenced it to a game series that I play often, called the Yakuza/Like a Dragon franchise of video games.
